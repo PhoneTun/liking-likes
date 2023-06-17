@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    
+}
+.title{
+    font-size: 30px;;
+}
+#body{
+    padding: 0px 630px 0px 630px;
+}
+h3{
+    font-weight: bold;
+}
+.post1{
+    margin: 40px 0px 40px 10px;
+    border: 3px solid black;
+    padding: 40px;
+    width: 500px;
+    height: 140px;
+}
+.row1{
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    background-color: rgb(228, 228, 78);
+    width: 65px;
+    height: 40px;
+    box-shadow: 3px 2px 2px black;
+    font-weight: bold;
+    margin-top: -6px;
+}
+p{
+    font-size: 23px;
+    margin-top: 40px;
+}
+nav {
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+.yourfeed{
+    text-align: center;
+    margin: 40px;
+}
+.left{
+    border: 3px solid black;
+    text-align: center;
+    padding: 80px 40px;
+    margin-top: 40px;
+    width: 250px;
+    height: 350px;
+
+}
+.feed{
+    display: flex;
+    gap: 100px;
+}
+img{
+    margin-bottom: 40px;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+.profilename{
+    margin: 40px;
+}
